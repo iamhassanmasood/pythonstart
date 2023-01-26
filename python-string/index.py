@@ -16,3 +16,9 @@ if "free" in txt:
 newText = "A quick brown fox jumps over the lazy dog"
 print("free" in newText) #False
 print("expensive" not in txt) #True
+
+multilineText = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
+print(multilineText) #Multiline text
