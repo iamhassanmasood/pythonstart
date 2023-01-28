@@ -10,3 +10,13 @@ if b > a:
   print("b is greater than a")
 else:
   print("b is not greater than a")
+  
+text = "Hello"
+print(bool(text)) #True
+text = ""
+print(bool(text)) #False
+text = None
+print(bool(text)) #False
+print(10 > 9) #True
+print(10 == 9) #False
+print(10 < 9) #False
