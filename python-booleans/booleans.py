@@ -20,3 +20,8 @@ print(bool(text)) #False
 print(10 > 9) #True
 print(10 == 9) #False
 print(10 < 9) #False
+total_cost = bool(1 + 3 * 4)
+print(total_cost)
+
+result_of_computation = bool(((2 * 4) * 4) + 2)
+print(result_of_computation)
