@@ -40,3 +40,7 @@ print(b[:-2]) #it will print in negative order from position 2 to position end
 
 b = "Hello, Engineers"
 print(b[-2:]) #it will print last 2 index's
+
+greeting = "Hello"
+team = "World"
+print(greeting + team)
