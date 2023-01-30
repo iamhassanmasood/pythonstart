@@ -44,3 +44,4 @@ print(b[-2:]) #it will print last 2 index's
 greeting = "Hello"
 team = "World"
 print(greeting + team)
+print("The sum of 2 plus 2 is " + 4)
